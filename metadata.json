@@ -1,0 +1,7 @@
+{
+  "name": "Les Foulées de Papy Jo'",
+  "description": "Site officiel de la course nature 'Les Foulées de Papy Jo'', une aventure sportive et conviviale au cœur de la forêt avec coaching IA personnalisé.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
