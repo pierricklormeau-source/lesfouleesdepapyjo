@@ -32,7 +32,7 @@ const Hero: React.FC<{ onRegisterClick: () => void }> = ({ onRegisterClick }) =>
         <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-lime-400 rounded-full mix-blend-overlay filter blur-3xl animate-blob animation-delay-2000"></div>
       </div>
 
-      <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center">
+      <div className="absolute inset-0 bg-[url('/fond-papy.jpg')] bg-cover bg-center">
         <div className="absolute inset-0 bg-black/30 backdrop-blur-[1px]"></div>
       </div>
       
